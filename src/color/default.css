@@ -31,10 +31,23 @@ ul#menu-main > li > a:focus,ul#menu-main > li > a:active, ul#menu-main > li > a.
 	background: #1BAC91 !important;
 }
 
+.facebook {
+	background: #3b5998 !important;
+	color: white !important;
+}
+
+.a{
+	color: white;
+}
+
+.google {
+	background: #ea4335 !important;
+	color: white !important;
+}
+
 .btn.btn-theme {
 	background: #26c8aa !important;
 }
-
 /* blog */
 .home-post .post-meta {
 	background: #1BAC91;
